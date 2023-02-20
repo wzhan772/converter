@@ -1,5 +1,5 @@
 # converter
-a C program that converts different values
+A C program that converts different values
 
 Assignment overview
 We would like students to experience command line input with C types of character, int, and float, to understand and use C types such as char, int, and float, as well as the flow control structures studied in class.
